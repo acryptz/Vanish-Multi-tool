@@ -6,5 +6,7 @@
 
 
 1 open zip file
-2 start vanish.exe 
+
+2 start vanish.exe
+
 3 enjoy and pls leave a star if u like it
